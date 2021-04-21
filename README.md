@@ -1,4 +1,4 @@
-# Googlee-Data-Analytics-Coursera-Course
+# Google-Data-Analytics-Coursera-Course
 
 Chapter 10 - Capstone Project
 
